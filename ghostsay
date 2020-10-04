@@ -1,4 +1,4 @@
 #!/bin/bash
 
-# Execute cowsay program with the Ghostbusters logo
+# Execute cowsay program with the Ghostbusters logo...
 /usr/games/./cowsay -f ghostbusters $@
