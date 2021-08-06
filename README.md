@@ -5,7 +5,7 @@
 ```sh
 $ docker run ghostsay:1.0 ghostsay Some argument
 ```
-![](argument.png)
+![](doc/argument.png)
 
 ## Installation
 
@@ -14,4 +14,4 @@ Docker:
 ```sh
 docker build -t ghostsay:1.0 .
 ```
-![](hello.png)
+![](doc/hello.png)
